@@ -33,7 +33,7 @@
 			<artifactId>spring-plugin-core</artifactId>
 		</dependency>
 
-		<!-- Test only dependencies changed-->
+		<!-- Test only dependencies -->
 		<dependency>
 			<groupId>com.jayway.jsonpath</groupId>
 			<artifactId>json-path</artifactId>
